@@ -1,0 +1,16 @@
+#just npm things just in case I guess
+node_modules
+node_modules/*
+FilmFinder/node_modules
+FilmFinder/node_modules/*
+
+
+
+
+
+
+
+
+
+
+
